@@ -1,1 +1,1 @@
-# Pr-ctica_T1_02
+# Practica_T1_02
